@@ -85,7 +85,3 @@ CampusConnect Project Team
 
 ### 3. Notice Details Screen
 ![Notice Details Screen](screenshots/notice_details.png)
-Team Member	College ID	Contributions
-Team Leader	248x1a42d9	Project setup, GitHub repository management, project planning, backend development, API integration, and overall project testing.
-Member 1	248x1a42f7	UI design and improvements, app theme and branding, notice creation, editing and deletion functionality.
-Member 2	248x1a42i3	Notice categorization, search and filter functionality, notification system, notice updates, and application testing.
