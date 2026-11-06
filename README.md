@@ -86,6 +86,6 @@ CampusConnect Project Team
 ### 3. Notice Details Screen
 ![Notice Details Screen](screenshots/notice_details.png)
 Team Member	College ID	Contributions
-Team Leader	248x1a42i3	Project setup, GitHub repository management, Flutter application development, notice management (Add, Edit, Delete), Provider implementation, local data storage, integration and testing.
-Member 1	248x1a42f7	UI/UX design, application theme and branding, home screen development, notice listing, category-wise filtering, and navigation improvements.
-Member 2	248x1a42d9	Notice details screen, notice date and description display, settings screen, data persistence testing, application screenshots, README documentation, and final project testing
+Team Leader	248x1a42d9	Project setup, GitHub repository management, project planning, backend development, API integration, and overall project testing.
+Member 1	248x1a42f7	UI design and improvements, app theme and branding, notice creation, editing and deletion functionality.
+Member 2	248x1a42i3	Notice categorization, search and filter functionality, notification system, notice updates, and application testing.
